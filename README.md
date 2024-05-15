@@ -1,4 +1,4 @@
-# Student-Database-System![DB1](https://github.com/niranjanyadav123/Student-Database-System/assets/156639862/b9e7eb88-144c-4dbc-a93f-acb9cdc496cd)
+# Student-Database-System![DB1]
 ![Addstudent](https://github.com/niranjanyadav123/Student-Database-System/assets/156639862/40560215-bd88-47c8-be33-d1184cfd7232)
 ![database](https://github.com/niranjanyadav123/Student-Database-System/assets/156639862/4c445a03-f90b-48be-9e8a-09dbbbbd284d)
 ![Addstudent](https://github.com/niranjanyadav123/Student-Database-System/assets/156639862/d102ae8a-a4d0-4481-bf15-9a25817f8e20)
